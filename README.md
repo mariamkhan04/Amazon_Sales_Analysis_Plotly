@@ -3,6 +3,12 @@
 ### **Project Objective:**
 To analyze the Amazon Sales Dataset to uncover insights about product ratings, pricing, discounts, and customer reviews across different categories. The analysis will help identify trends, popular products, and factors influencing customer satisfaction.
 
+### **Dataset Description:**
+
+- Taken from kaggle.
+- The dataset used in this project contains Amazon product sales data, including **product ratings, pricing, customer reviews, and discount information**. 
+- This dataset helps in understanding the relationship between pricing, customer feedback, and overall product performance.
+
 ### **Key Objectives**
 - **Understand customer sentiments** from product reviews.
 - **Analyze the impact of pricing and discounts** on ratings.
