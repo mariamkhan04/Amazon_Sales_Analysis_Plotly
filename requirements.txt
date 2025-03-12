@@ -1,0 +1,8 @@
+IPython
+matplotlib
+nltk
+numpy
+pandas
+plotly
+textblob
+wordcloud
